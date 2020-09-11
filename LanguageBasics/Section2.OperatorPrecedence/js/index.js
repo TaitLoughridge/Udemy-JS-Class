@@ -31,9 +31,9 @@ console.log(x)
 x += 10 // added 10 to the result from one above
 console.log(x)
     //next 3 do the same thing
-    // x = x + 1;
-    // x += 1;
-    // x++
+// x = x + 1;
+// x += 1;
+// x++
 
 
 
