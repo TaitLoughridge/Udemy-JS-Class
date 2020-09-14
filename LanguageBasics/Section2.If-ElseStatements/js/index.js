@@ -17,6 +17,8 @@ if (isMarried) {
     console.log(firstName + ' will hopefully be married soon!');
 }
 
+
+
 // code from CodingChallenge1
 let heightTait, heightMark, massTait, massMark, bmiTait, bmiMark
 heightTait = 1.753 // meters
@@ -34,5 +36,6 @@ if (bmiMark > bmiTait) {
 }
 
 // old code from CodingChallenge1
+
 // console.log('Tait\'s BMI:', bmiTait,'Mark\'s BMI:', bmiMark)
 // console.log('Tait has higher BMI than Mark?', bmiTait > bmiMark)
