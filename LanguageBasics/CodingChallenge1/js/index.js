@@ -12,3 +12,4 @@ console.log('Tait\'s BMI:', bmiTait,'Mark\'s BMI:', bmiMark)
 console.log('Tait has higher BMI than Mark?', bmiTait > bmiMark)
 
 
+
